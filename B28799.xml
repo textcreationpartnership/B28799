@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons offered against the passing of Sir Samuel Morland's bill touching water-engines.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28799</idno><idno type="EEBO-CITATION">99885616</idno>
+  <idno type="VID">185417</idno>
+  <idno type="EEBO-PROQUEST">2240882246</idno>
+  
+            <idno type="STC">Wing R576</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.10[94]</idno>
+            <idno type="STC">ESTC R224718</idno>
+            <idno type="PROQUEST">ocm99885616</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885616e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28799)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185417)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:2[93])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons offered against the passing of Sir Samuel Morland's bill touching water-engines.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Morland, Samuel, --  Sir, 1625-1695 --  Early works to 1800.</term>
+               <term type="topical_term">Pumping machinery --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185417:1"/>
+            <head>REASONS Offered against the Passing of Sir Samuel Morland's Bill TOUCHING WATER-ENGINES.</head>
+            <p n="1">1. ALthough it's not gainsaid,<note place="margin">21 <hi>Jac.</hi> cap. 3.</note> but that Parliaments have granted and confirmed Powers and Priviledges for the sole ma<g ref="char:EOLhyphen"/>king and vending of some Commodities, and may and can, if they see cause, do the like in other like Cases; yet it's humbly conceiv'd and hoped, since it hath been and is the judgment of Parliament formerly declared, That all restraints, matters, and things any way tending to the erecting, furthering, and countenancing of Monopolies are al<g ref="char:EOLhyphen"/>together contrary to the Law, and so void, and not to be put in execution; and that the force and validity thereof ought to be examined and determined according to the Common Laws of this Realm, and not otherwise: that therefore the wisdome of this Parliament will be the more strict and cautious before any such Restraint and sole Priviledge abridging the liberty of others, be by their sanction granted in the present Case, notwithstanding the pretence of Publick good, which is usually in such things suggested.</p>
+            <p n="2">2. The cause and ground mentioned as the inducement to pass the Bill for his sole making and using the Water-Engines, is in ge<g ref="char:EOLhyphen"/>neral only, that he hath invented the making of several new Pumps and other Water-Engines for raising and forcing up great quantities of water to great heights; which is a suggestion that if admitted, is conceiv'd not to be a fit foundation for the stru<g ref="char:EOLhyphen"/>cture he would erect: For that, 1. He may possibly invent that which others, unknown to him, may have invented before, who would by such means be utterly depriv'd of their just Labours and Livelyhoods, the avoiding whereof was the cause that the Liberty re<g ref="char:EOLhyphen"/>served for Grants for Fourteen years by the Statute of 21 <hi>Jac.</hi> c. 3. restrains them to the first and true Inventers. 2. The suggestion mentions his inventing the making of several new Pumps and other Water-works; but the Bill, as endeavour'd by him to pass, de<g ref="char:EOLhyphen"/>prives all others of the making and using of all such, although they have invented likewise the making of several new Pumps and Water-words. 3. Any small circumstantial Addition invented to Pumps and Water-works, may be styl'd, as to that part, an in<g ref="char:EOLhyphen"/>vention thereof, when nothing else was new; by which pretence also he would endeavour to exclude the Inventions of others: whereby all Attempts of this kinde by others, must be laid aside until Sir <hi>Samuel</hi> please.</p>
+            <p n="3">3. The Bill as desired by him to pass, gives him the sole property not only of these, but of such Additions and Improvements as he shall hereafter make of them; though no man doth or can know what may be pretendedly included either in such past Inventions or such future Additions.</p>
+            <p n="4">4. There is however a Proviso in the Bill, that it shall not prejudice any person whose Engine differs in the principal parts from his; but what can be meant by those Principal parts, is impossible to be known, unless it be with respect to Pipes of Timber, Succors, Forcers Valves, and such-like; which are the principal parts of every Pump: Nor is it to be hoped that most Justices of the Peace or others concern'd should be capable of distinguishing in matters of this peculiar Mystery; and therefore in all Letters-Patents for Monopolies for Fourteen years, there is usually a certain Clause to make them void, if any other should appear to be the first In<g ref="char:EOLhyphen"/>venter of the thing granted.</p>
+            <p n="5">5. Sir <hi>Samuel</hi> by the Bill is within three Moneths after the Royal Assent, to deliver in perfect Models of the said Inventions; but for his new Additions, any time after shall be sufficient.</p>
+            <p n="6">6. In the mean time Sir <hi>Samuel</hi> having already a Patent to make search and discover what others are doing in this kinde, how shall men be sure he will not present the Models of other mens Inventions as his own past Atchievements; or that he will not at any time hereafter present the succeeding Endeavours of other men, as the new Additions of his own?</p>
+            <p n="7">7. The Bill lays a severe penalty upon those that imitate Sir <hi>Samuel</hi>'s past Inventions, or subsequent Additions; though it is impossi<g ref="char:EOLhyphen"/>ble to know either what they are, or will be: and so in this case as impossible to avoid being ruined by laudable Endeavours for nothing but Publick good.</p>
+            <p n="8">8. By the Bill endeavour'd to pass, all Persons whatsoever, though Inventers and Users of Water-Engines, are seclude and made liable to severe penalties, either pecuniary or corporal, and that without Bail, no Saving being therein otherewise than as aforesaid; which yet is never omitted in Letters-Patents of this kinde, and rarely, if at all, in Acts of Parliament; and especially when divers others who know nothing of this Indeavour have, by their great industry and expences, found out several ways of raising Water with greater facility that it's believed these in question will do, especially as to the proper applications of various Engines to divers sorts of Mines or other Works.</p>
+            <p n="9">9. The Bill as endeavoured to pass, takes away the liberty of every Owner of Houses and Mines, as to their Pumps, and of the City of <hi>London,</hi> and every other Corporation who have Engines formerly invented for quenching of Fires, <hi>&amp;c.</hi> That they shall not make use of what persons they please to form their Pumbs and Engines, though such as were formerly made without a Licence from Sir <hi>Samuel Morland</hi> his Executors, Administrators, or Assignes.</p>
+            <p n="10">10. The Bill erects a Judicatory before two Justices of Peace, without any Appeal mentioned to be from them: which though done sometimes in some Criminal Cases, and of a Publick concern, yet not usual to be in the Case of the private Commodity of any single person, and where Property will be the Question: namely, whether of the Parties be the first Inventer, or whether the Act extend to the thing in question. And moreover, in case of an Action brought for the Forfeiture, it gives power to give in Evidence the Conviction before the Justices; whenas the Witnesses themselves may be alive, and having before perhaps given their Evi<g ref="char:EOLhyphen"/>dence in the absence of the party complained of, may now, if produced, give an opportunity to be cross-examined; that course being used in all Courts of Judicature, and the contrary way using Paper-Testimonies an occasion often of concealing Truth, and of introducing Perjury.</p>
+            <p n="11">11. If the thing it self be no Monopoly but a New Invention, and Sir <hi>Samuel Morland</hi> the first and true Inventer, it's conceived he may in the ordinary way have recourse for Letters-Patents for Fourteen years: And if it be in it self a Monopoly, it's humbly hoped the Parliament will not, especially upon the Considerations aforesaid, make it otherwise, but suffer it to stand or fall as such.</p>
+         </div>
+         <div type="response_to_text">
+            <pb facs="tcp:185417:2"/>
+            <head>AN ANSWER TO Sir <hi>Samuel Morland</hi>'s Paper.</head>
+            <p>THe Reasons within mention<g ref="char:EOLhyphen"/>ed were formerly given to divers Members of Parliament in Writing; whereupon a printed Pa<g ref="char:EOLhyphen"/>per is since dispersed, under the Ti<g ref="char:EOLhyphen"/>tle of Sir <hi>Samuel</hi>'s Answer to them: But no Answer to any of them ap<g ref="char:EOLhyphen"/>pearing therein, it was thought fit, instead of Replying, to print the said Reasons.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
